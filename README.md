@@ -3,9 +3,13 @@
 > 声明: 所有播放源均收集于互联网，仅供测试研究学习，`不得商用!`
 
 ## 订阅链接:        
-> [直播加速URL1](https://gh.tryxd.cn/https://raw.githubusercontent.com/XlllllX/IPTV/main/live.m3u)
+> [IPV4直播加速URL1](https://gh.tryxd.cn/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv4.m3u)
 > 
-> [直播加速URL2](https://gh.llkk.cc/https://github.com/XlllllX/IPTV/blob/main/live.m3u)
+> [IPV4直播加速URL2](https://gh.llkk.cc/https://github.com/XlllllX/IPTV/blob/main/live_ipv4.m3u)
+> 
+> [IPV6直播加速URL1](https://gh.tryxd.cn/https://raw.githubusercontent.com/XlllllX/IPTV/main/live_ipv6.m3u)
+> 
+> [IPV6直播加速URL2](https://gh.llkk.cc/https://github.com/XlllllX/IPTV/blob/main/live_ipv6.m3u)
 >
 > [节目单加速URL1](https://gh.tryxd.cn/https://raw.githubusercontent.com/XlllllX/IPTV/main/epg.xml)
 > 
