@@ -1,5 +1,5 @@
 更新日期,#genre#
-2025-02-19,https://gitee.com/IIII-9306/PAV/raw/master/Updatetime.mp4
+2025-02-20,https://gitee.com/IIII-9306/PAV/raw/master/Updatetime.mp4
 央视频道,#genre#
 CCTV1,http://113.220.235.232:9999/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路1
 CCTV1,http://36.40.236.160:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路2
