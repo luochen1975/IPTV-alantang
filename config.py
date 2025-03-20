@@ -2,11 +2,11 @@ ip_version_priority = "ipv6"
 
 source_urls = [
     "http://zb6.wsmywlkj.top",
-    "https://live.zhoujie218.top/tv/iptv4.txt",
-    "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
-    "https://live.zbds.top/tv/iptv4.txt",
-    "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
-    "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt"
+    #"https://live.zhoujie218.top/tv/iptv4.txt",
+    #"https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+    #"https://live.zbds.top/tv/iptv4.txt",
+    #"https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
+    #"https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt"
     ########################################################################################################
     #"https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u",
     #"https://ghgo.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt",
