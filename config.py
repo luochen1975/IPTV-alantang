@@ -1,7 +1,7 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-   
+    "http://zb6.wsmywlkj.top",
     "https://live.zhoujie218.top/tv/iptv4.txt",
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
     "https://live.zbds.top/tv/iptv4.txt",
