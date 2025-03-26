@@ -7,6 +7,7 @@ source_urls = [
     "https://live.zbds.top/tv/iptv4.txt",
     "https://live.kilvn.com/iptv.m3u",
     "https://tv.iill.top/m3u/Gather",
+    "http://rihou.cc:55/lib/kx2024.txt",
     "https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u",
     "https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u",
     "https://gh.tryxd.cn/https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/IPTV.m3u",
