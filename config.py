@@ -1,6 +1,7 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
+    "http://gg.7749.org/z/i/gdss.txt",
     "http://aktv.space/live.m3u",
     "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt",
     "https://gh.tryxd.cn/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
