@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-10-11,https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
+2026-10-12,https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 广东频道,#genre#
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=5d7708684007fcea395caff98369084c&txTime=19019c37743$IPV4•线路1
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=a484293b0e6036fb053179bdffaf7127&txTime=18e0d9e3c22$IPV4•线路2
